@@ -7,7 +7,7 @@ This project uses Selenium, scikit-learn, and BeautifulSoup to group web pages b
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/fshasan/webpage-clustering.git
 ```
 Create a virtual environment (replace venv with your preferred virtual environment name):
 
@@ -18,7 +18,7 @@ python -m venv venv
 Activate the virtual environment:
 
 ```bash
-source venv/bin/activate    # On Unix or macOS
+source venv/bin/activate    # On Linux or macOS
 
 # or
 
