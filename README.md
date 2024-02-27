@@ -9,10 +9,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/fshasan/webpage-clustering.git
 ```
-Create a virtual environment (replace venv with your preferred virtual environment name):
+Create a virtual environment (replace 'venv' with your preferred virtual environment name):
 
 ```bash
-python -m venv venv
+python -m venv 'venv'
 ```
 
 Activate the virtual environment:
